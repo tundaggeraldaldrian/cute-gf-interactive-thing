@@ -1,5 +1,3 @@
-# a question for you
-
 A small interactive page. One button runs away when you try to click it, the other doesn't.
 
 ## Try it
